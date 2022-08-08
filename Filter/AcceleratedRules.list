@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,formula1.com,PROXY
 DOMAIN-SUFFIX,notion.so,PROXY
 DOMAIN-SUFFIX,notion.site,PROXY
 DOMAIN-SUFFIX,notion-static.com,PROXY
+# Podcast
+DOMAIN-SUFFIX,soundon.fm,PROXY
