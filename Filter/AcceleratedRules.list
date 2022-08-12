@@ -9,5 +9,6 @@ DOMAIN-SUFFIX,notion.site,PROXY
 DOMAIN-SUFFIX,notion-static.com,PROXY
 # Podcast
 DOMAIN-SUFFIX,soundon.fm,PROXY
-# Microsoft
+# Microsoft AppCenter
 HOST,install.appcenter.ms,PROXY
+HOST,mobilecenter.azureedge.net,PROXY
