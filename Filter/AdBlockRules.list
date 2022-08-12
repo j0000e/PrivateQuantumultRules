@@ -6,3 +6,5 @@ HOST,appcloud2.in.zhihu.com,REJECT
 HOST,mqtt.zhihu.com,reject
 HOST,sugar.zhihu.com,reject
 USER-AGENT,AVOS*,REJECT
+# 屏蔽国区腾讯SafeBrowsing
+HOST,safebrowsing.urlsec.qq.com,reject
