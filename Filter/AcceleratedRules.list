@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,jsdelivr.net,PROXY
 DOMAIN-SUFFIX,cloudfront.net,PROXY
 # F1
-DOMAIN-SUFFIX,formula1.com,PROXY
+#DOMAIN-SUFFIX,formula1.com,PROXY
 # Notion
 DOMAIN-SUFFIX,notion.so,PROXY
 DOMAIN-SUFFIX,notion.site,PROXY
