@@ -12,3 +12,9 @@ DOMAIN-SUFFIX,soundon.fm,PROXY
 # Microsoft AppCenter
 HOST,install.appcenter.ms,PROXY
 HOST,mobilecenter.azureedge.net,PROXY
+# Video
+DOMAIN-SUFFIX,lzizy9.com,PROXY
+DOMAIN-SUFFIX,cdnlz1.com,PROXY
+DOMAIN-SUFFIX,olevod.com,PROXY
+DOMAIN-SUFFIX,olelive.com,PROXY
+DOMAIN-SUFFIX,tmdb.org,PROXY
